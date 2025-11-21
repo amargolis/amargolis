@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # hi there 👋  i'm andy!
 
-I love to build intuitive solutions to problems of all shapes and sizes!
+I love to build intuitive solutions to problems of all shapes and sizes. Public repos within are strictly personal projects.
 
 - 🔭 I’m currently working on: AI-powered solutions ;)
 
