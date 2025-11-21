@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 
 # hi there 👋  i'm andy!
 
-I build things, learn new tech, and contribute to open source.
+I love to build intuitive solutions to problems of all shapes and sizes!
 
-- 🔭 I’m currently working on: interesting project
-- 🌱 I’m learning: new skill
-- 💬 Ask me about: topic
-- 📫 How to reach me: email@example.com
+- 🔭 I’m currently working on: AI-powered solutions ;)
 
 [![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=amargolis)](https://github.com/anuraghazra/github-readme-stats)
