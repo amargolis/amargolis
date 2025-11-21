@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# hi there 👋  i'm andy!
+
+I build things, learn new tech, and contribute to open source.
+
+- 🔭 I’m currently working on: interesting project
+- 🌱 I’m learning: new skill
+- 💬 Ask me about: topic
+- 📫 How to reach me: email@example.com
+
+[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=amargolis)](https://github.com/anuraghazra/github-readme-stats)
