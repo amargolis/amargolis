@@ -15,7 +15,7 @@ Currently building:
 - ShareWords - expand your vocabulary as you read - no matter where or what you read!
 
 Open source stuff I've built:
-- Dex-to-TickTick - A simple, local, Python-based integration to turn Dex PRM tasks into TickTick tasks.
+- Dex-to-TickTick - A simple, local, JS-based integration to turn Dex PRM tasks into TickTick tasks.
 
 Tools I mostly use:
 - Claude Code
